@@ -16,6 +16,7 @@
         android:backgroundTint="#8285D9"
         android:onClick="clicked"
         android:text="Click me"
+        android:textColor="#0F2D4E"
         android:textColorLink="#DE4FA7"
         android:textSize="37sp"
         app:iconSize="18dp"
